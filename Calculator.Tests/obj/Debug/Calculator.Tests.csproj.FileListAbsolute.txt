@@ -1,0 +1,17 @@
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\bin\Debug\SimpleCalculator.exe
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\bin\Debug\SimpleCalculator.pdb
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\bin\Debug\SimpleCalculator.exe.config
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\obj\Debug\Calculator.Tests.csprojAssemblyReference.cache
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\obj\Debug\Calculator.Tests.csproj.CoreCompileInputs.cache
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\obj\Debug\Calculator.Tests.csproj.CopyComplete
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\bin\Debug\nunit.engine.dll
+C:\Users\oleksii.remizov\source\repos\SimpleCalculator\Calculator.Tests\bin\Debug\nunit.engine.api.dll
