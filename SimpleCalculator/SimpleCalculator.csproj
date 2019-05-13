@@ -43,12 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Calculator.cs" />
+    <Compile Include="FifthLab\DataStorage.cs" />
+    <Compile Include="FifthLab\User.cs" />
+    <Compile Include="FirstLab\Calculator.cs" />
+    <Compile Include="SecondLab\EasyCalculator.cs" />
+    <Compile Include="SecondLab\IAddMethod.cs" />
+    <Compile Include="ThirdPlusFourthLab\Connection.cs" />
+    <Compile Include="ThirdPlusFourthLab\IConnection.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

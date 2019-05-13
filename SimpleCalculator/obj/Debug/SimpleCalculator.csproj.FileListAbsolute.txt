@@ -4,3 +4,10 @@ C:\Users\oleksii.remizov\source\repos\SimpleCalculator\SimpleCalculator\bin\Debu
 C:\Users\oleksii.remizov\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
 C:\Users\oleksii.remizov\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
 C:\Users\oleksii.remizov\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
